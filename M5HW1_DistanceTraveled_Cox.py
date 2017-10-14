@@ -6,7 +6,7 @@
 
 def main():
 
-# Assuming no delays, the distance that a car travels down the interstate can be calculated with the following formula:
+# Assuming no delay, the distance that a car travels down the interstate can be calculated with the following formula:
 # Distance = Speed * Time
 
 #variable one is the speed traveled
