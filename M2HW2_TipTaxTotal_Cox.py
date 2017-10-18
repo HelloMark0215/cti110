@@ -5,8 +5,6 @@
 
 # This program is assuming an 18% Tip and 7% sales tax.
 
-print ("Hello")
-
 #variable one is requesting the user to enter the cost of his/her meal
 
 mealcharge = float(input("please enter only the cost of your meal minus any tips or taxes $"))
