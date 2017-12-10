@@ -29,7 +29,7 @@ def ask_for_scores():
 
     return score1, score2, score3, score4, score5
 
-# define main.. I couldn't figure out how to make the main function ask for the inputs and relay those to the other functions.  
+# define main.. I couldn't figure out how to make the main function ask for the inputs and relay those to other functions.  
 def main():
 
     score1, score2, score3, score4, score5 = ask_for_scores()
