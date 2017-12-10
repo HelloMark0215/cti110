@@ -6,8 +6,6 @@
 # Assuming no delays, the distance that a car travels down the interstate can be calculated with the following formula:
 # Distance = Speed X Time
 
-print ("Hello World")
-
 print ("This program is calculating miles traveled by an automobile traveling at a set speed for a certain number of hours")
 
 #variable one is the speed traveled
